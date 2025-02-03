@@ -9,6 +9,11 @@ const HomePage = () => {
           Week 2 Assignment
         </Link>
       </p>
+      <p>
+        <Link href="/week-3" style={{ fontSize: "18px", textDecoration: "none" }}>
+          Week 3 Assignment
+        </Link>
+      </p>
     </div>
   );
 };
